@@ -1,4 +1,4 @@
-# 💫 About Me 
+# 💫 About Me -
 ## 👨‍💻 About Me<br><br>I'm Karan Bisht, a Computer Science undergraduate passionate about software engineering, problem-solving, and modern web development.<br><br>I enjoy building efficient applications, learning new technologies, and continuously improving my programming skills.<br><br>### Tech Interests<br>💻 C++<br>🌐 HTML • CSS • JavaScript<br>⚛️ React.js<br>🟢 Node.js<br>🍃 MongoDB<br>🐍 Python<br><br>### Currently<br>- 🚀 Learning MERN Stack<br>- 📚 Practicing Data Structures & Algorithms<br>- 🔥 Building real-world projects<br>- 🤝 Looking to collaborate on Open Source<br><br>> "Consistency beats talent when talent doesn't stay consistent."
 
 
