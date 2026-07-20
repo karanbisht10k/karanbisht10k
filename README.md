@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+there%2C+I'm+Karan+%F0%9F%91%8B;Building+RideKaro+%F0%9F%9A%97+%E2%80%94+Decentralized+Carpooling;MERN+Stack+%2B+Blockchain+Developer;CSE+Undergrad+%40+Graphic+Era+Hill+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=MERN+Stack+%2B+Blockchain+Developer;CSE+Undergrad+%40+Graphic+Era+Hill+University" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,31 +31,17 @@ const karan = {
   role: "Computer Science Undergraduate (Sem 4)",
   college: "Graphic Era Hill University, Bhimtal",
   stack: "MERN + Blockchain",
-  currentBuild: "RideKaro — Decentralized Carpooling Platform",
+  currentBuild: "Real-World Full Stack Projects",
   learning: ["Advanced DSA", "AWS", "AI/ML", "Web3"],
   philosophy: "Ship clean, ship fast, ship it right.",
 };
 ```
 
-- 🔭 Currently architecting **RideKaro** — a MERN + Ethereum carpooling platform for the Bhimtal–Haldwani–Nainital corridor
+- 🔭 Building real-world full-stack applications with clean architecture.
 - 🌱 Deepening my knowledge of **DSA, AWS Cloud, and applied AI**
 - 💡 Passionate about full-stack engineering, smart contracts, and clean UI systems
 - ⚡ I approach every feature with a strict **plan → approve → build** workflow — no shortcuts
 - 📍 Based in Uttarakhand, India
-
-<br/>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🚀 Building | 📚 Learning | 🎯 Goal |
-|:---:|:---:|:---:|
-| RideKaro (Web3 Carpooling) | DSA + System Design | SDE Internship / New Grad Role |
-| Wallet Integration (ethers.js) | AWS Cloud Fundamentals | Contribute to Open Source |
-| Smart Contract Security | Applied AI/ML | Ship 1 polished product / quarter |
-
-</div>
 
 <br/>
 
@@ -80,120 +66,6 @@ const karan = {
 <img src="https://skillicons.dev/icons?i=aws,git,github,solidity,vscode,postman&theme=dark" />
 
 </div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 [RideKaro](https://github.com/karanbisht10k/rideKaro)
-**Decentralized carpooling platform for Bhimtal–Haldwani–Nainital**
-
-A full-stack MERN + blockchain platform enabling trustless, peer-to-peer carpooling with on-chain ride verification and wallet-based identity.
-
-**Tech Used:**
-`React 19` `Vite` `Tailwind v4` `Framer Motion` `React Three Fiber` `Node.js` `Express` `MongoDB` `Solidity` `Hardhat` `ethers.js v6` `Sepolia Testnet`
-
-**Key Features:**
-- 🔐 MetaMask wallet authentication
-- ⛓️ On-chain ride & payment verification
-- 🎨 Immersive animated landing experience
-- 🗺️ Route-based ride matching engine
-
-<img src="https://img.shields.io/badge/Status-In%20Development-38BDF8?style=flat-square" />
-
-[![Repo](https://img.shields.io/badge/Repo-000?style=flat-square&logo=github)](https://github.com/karanbisht10k/rideKaro)
-[![Live](https://img.shields.io/badge/Live%20Demo-Coming%20Soon-38BDF8?style=flat-square&logo=vercel)](#)
-
-</td>
-<td width="50%">
-
-### 🏨 Hostel Entry Exit Management System
-**Digitizing hostel security & attendance**
-
-A MERN-based system to track and manage student entry/exit logs, replacing manual hostel registers with a searchable digital workflow.
-
-**Tech Used:**
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-
-**Key Features:**
-- 📋 Real-time entry/exit logging
-- 🔍 Searchable student records
-- 🛡️ Role-based admin access
-
-[![Repo](https://img.shields.io/badge/Repo-000?style=flat-square&logo=github)](https://github.com/karanbisht10k)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💪 Hostel Fitness Tracker
-**Gamified fitness tracking for hostel students**
-
-A tracker that lets students log workouts, monitor progress, and stay accountable within their hostel community.
-
-**Tech Used:**
-`MERN Stack` `Chart.js`
-
-**Key Features:**
-- 📊 Visual progress dashboards
-- 🏆 Streaks & leaderboards
-- 📱 Mobile-responsive UI
-
-[![Repo](https://img.shields.io/badge/Repo-000?style=flat-square&logo=github)](https://github.com/karanbisht10k)
-
-</td>
-<td width="50%">
-
-### 🗺️ Smart Route Optimization System
-**Optimized routing using pathfinding algorithms**
-
-Applies graph algorithms to compute efficient routes, built as a foundation for RideKaro's matching engine.
-
-**Tech Used:**
-`JavaScript` `Dijkstra's Algorithm` `A* Search` `Node.js`
-
-**Key Features:**
-- ⚡ Shortest-path computation
-- 🌐 Real-world map data integration
-
-[![Repo](https://img.shields.io/badge/Repo-000?style=flat-square&logo=github)](https://github.com/karanbisht10k)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 AI SAARTHI
-**AI-powered assistant project**
-
-An AI-driven assistant concept exploring practical LLM integration for everyday productivity use cases.
-
-**Tech Used:**
-`Python` `AI/ML` `React`
-
-[![Repo](https://img.shields.io/badge/Repo-000?style=flat-square&logo=github)](https://github.com/karanbisht10k)
-
-</td>
-<td width="50%">
-
-### ⛓️ Carbon Credit System with Blockchain Transparency
-**PBL project — transparent carbon credit trading**
-
-A blockchain-backed system for tracking and verifying carbon credits, built with Ethereum smart contracts and a MERN dashboard.
-
-**Tech Used:**
-`Solidity` `Ethereum` `MERN Stack` `RESTful APIs`
-
-[![Repo](https://img.shields.io/badge/Repo-000?style=flat-square&logo=github)](https://github.com/karanbisht10k)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -234,25 +106,18 @@ A blockchain-backed system for tracking and verifying carbon credits, built with
 
 <br/>
 
-## 📜 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/MERN%20Stack-Self%20Certified-38BDF8?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Blockchain%20%26%20Solidity-Coursework-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-
-*Replace with your actual certification badges/links (Coursera, AWS, freeCodeCamp, etc.) as you earn them.*
-
-</div>
-
-<br/>
-
 ## 💭 Fun Fact & Quote
 
 <div align="center">
 
-🌌 **Fun fact:** When I'm not shipping code, I'm chasing star trails — astrophotography taught me more about patience than any sprint deadline ever has.
+```javascript
+const developer = {
+  sleep: false,
+  coffee: Infinity,
+  bugs: "unexpected features",
+  status: "building real-world projects 🚀"
+};
+```
 
 <br/>
 
