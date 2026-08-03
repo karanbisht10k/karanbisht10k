@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HERO BANNER -->  
+<!-- ANIMATED HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=280&section=header&text=KARAN%20BISHT&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Blockchain%20%7C%20MERN%20Developer&descAlignY=58&descSize=20&descColor=7DD3FC" width="100%"/>
 
 <!-- ANIMATED TYPING HEADER -->
